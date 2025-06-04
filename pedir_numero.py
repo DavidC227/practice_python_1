@@ -3,7 +3,7 @@ lista_numeros = []
 
 
 for i in range (5):
-    i += 1
+    
     numero = int(input("Ingresa cualquier numero: "))
     lista_numeros.append(numero)
 print()
