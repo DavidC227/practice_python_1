@@ -15,4 +15,3 @@ max_key = max(counter, key=counter.get)
 max_value = max(counter.values())
 
 print(f"El numero {max_key} se repite {max_value} veces")  
-
