@@ -10,3 +10,4 @@ def palindromo(palabra):
 
 print(palindromo(input("Ingresa una palabra: ")))
 print()
+
