@@ -1,6 +1,6 @@
 from collections import Counter
 
-caracteres = input("ingresa una palabra o frase")
+caracteres = input("ingresa una palabra o frase: ")
 
 caracteres = caracteres.lower().replace(" ","")
 
